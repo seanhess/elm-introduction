@@ -1,22 +1,15 @@
-1. elm reactor. get hot loading working
-2. outline
-How to get installed
-3. demonstrate an elm-html system
-4. talk about functional programming and how it simplifies creating systems
-    -- take examples from my production code?
+Introduction to Elm
+===================
 
-- no runtime exceptions: what does the workflow look like?
-
-- time traveling debugger
-- form input
-- ajax data
-- type driven development
-- elm-html out performs react!
-
+- [Elm](http://elm-lang.org/). Claims, try.
+- [Docs](http://elm-lang.org/docs)
+- [Syntax](http://elm-lang.org/docs/syntax). Functions, values, etc
 
 
 [EXAMPLES](http://elm-lang.org/examples)
 -----------------------------------------
+
+Concepts: Signals/FRP, Elm-html
 
 - [Functions](http://elm-lang.org/examples/functions)
 - [Mouse Position](http://elm-lang.org/examples/mouse-position)
@@ -26,27 +19,31 @@ How to get installed
 - [Clock](http://elm-lang.org/examples/clock)
 
 - [Mario](http://elm-lang.org/examples/mario)
-- [Adventure](http://elm-lang.org/examples/adventure])
-- [Pong](http://elm-lang.org/examples/pong)
 
+
+Benefits
+--------------------
+
+- Type-Driven Development
+- Small functions as building blocks
+- Compiler cycle to check your work
 
 CONCEPTS
 - signals / FRP
 - elm architecture (effects)
-- type driven development
-- small functions as building blocks
 
-
-LIVE APPLICATION
+Elm Architecture / Develop locally
 ----------------
-- build star wars app? No pictures :(
-- maybe something that can search for an image?
-- use the gify API?
 
-meme search?
+Concepts: Time travelling debugger. Elm Architecture
 
-- https://market.mashape.com/ismaelc/yoda-speak
-- use gify!
-- public beta key: dc6zaTOxFJmzC
-- http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=dc6zaTOxFJmzC
-- ok let's do it!
+Example: Counter
+
+Live Application: GIF Searching
+-------------------------------
+
+Concepts: Effects, JSON, HTTP, Type Driven Development, Small Functions
+
+Example: GIF Viewer
+
+
