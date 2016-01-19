@@ -6,7 +6,7 @@ Introduction to Elm
 - [Syntax](http://elm-lang.org/docs/syntax). Functions, values, etc
 
 
-[EXAMPLES](http://elm-lang.org/examples)
+[Examples](http://elm-lang.org/examples)
 -----------------------------------------
 
 Concepts: Signals/FRP, Elm-html
@@ -16,8 +16,10 @@ Concepts: Signals/FRP, Elm-html
 - [HTML Hello World](http://elm-lang.org/examples/hello-html)
 - [HTML Unordered List](http://elm-lang.org/examples/unordered-list)
 - [Mouse Tracker](http://elm-lang.org/examples/mouse-tracker)
-- [Clock](http://elm-lang.org/examples/clock)
 
+Complete examples
+
+- [Clock](http://elm-lang.org/examples/clock)
 - [Mario](http://elm-lang.org/examples/mario)
 
 
@@ -27,10 +29,6 @@ Benefits
 - Type-Driven Development
 - Small functions as building blocks
 - Compiler cycle to check your work
-
-CONCEPTS
-- signals / FRP
-- elm architecture (effects)
 
 Elm Architecture / Develop locally
 ----------------
