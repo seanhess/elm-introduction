@@ -1,6 +1,8 @@
 Introduction to Elm
 ===================
 
+[Sean Hess](http://seanhess.github.io)
+
 - [Elm](http://elm-lang.org/). Claims, try.
 - [Docs](http://elm-lang.org/docs)
 - [Syntax](http://elm-lang.org/docs/syntax). Functions, values, etc
