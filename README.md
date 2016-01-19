@@ -35,7 +35,9 @@ Benefits
 Elm Architecture / Develop locally
 ----------------
 
-Concepts: Time travelling debugger. Elm Architecture
+Concepts: Time travelling debugger.
+
+[Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial/)
 
 Example: Counter
 
